@@ -10,9 +10,11 @@ html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  min-height: 100%;
 }
 body {
-  margin: 0;
+height: 100%;
+margin: 0;
 background: #029acf; /* Old browsers */
 background: -moz-linear-gradient(-45deg, #029acf 0%, #ffffff 61%); /* FF3.6+ */
 background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#029acf), color-stop(61%,#ffffff)); /* Chrome,Safari4+ */
