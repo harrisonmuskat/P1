@@ -4,7 +4,7 @@
 TBD
 
 ## Description
-This is a 'personal website' of sorts that demonstrates capability with the course prerequisites and the ability to have our local servers and git setup working properly.
+This is a 'personal website' of sorts that demonstrates capability with the course prerequisites and the ability to have our local servers and git setup working properly. I have been having trouble getting the final product pushed to PagodaBox.
 
 ## Other details
 N/A
