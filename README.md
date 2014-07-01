@@ -11,3 +11,6 @@ N/A
 
 ## Outside Code
 * Bootstrap: http://getbootstrap.com
+* Bootstrap Theme (Simplex): http://bootswatch.com/simplex/#
+	* Modified theme slightly
+
